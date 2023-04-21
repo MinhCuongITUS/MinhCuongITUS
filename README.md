@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **MinhCuongITUS/MinhCuongITUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Everything :))
 - 📫 How to reach me: https://t.me/minhcuongit
 - 😄 Pronouns: Blabla :D
-- ⚡ Fun fact: Coding is fun 😊
--->
+- ⚡ Fun fact: Coding is fun 🤩
